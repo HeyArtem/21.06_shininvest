@@ -1,0 +1,5 @@
+.idea/
+venvShinin/
+*.pyc
+# Project exclude paths
+/venvShinIn/

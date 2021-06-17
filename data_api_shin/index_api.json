@@ -1,0 +1,666 @@
+{
+    "message": "Successfully received a list of tires",
+    "data": {
+        "count": 46,
+        "pageSize": 12,
+        "params": {
+            "manufacturer": "ALL",
+            "season": "summer",
+            "width": "205",
+            "profile": "55",
+            "diameter": "R16",
+            "runflat": false
+        },
+        "minPrice": 3360,
+        "currentPage": 4,
+        "pages": 4,
+        "filtration": [],
+        "items": [
+            {
+                "id": "999140",
+                "title": "Nokian Nordman SZ2",
+                "modelUri": "/catalog/nokian/summer/nordman_sz2/205-55-R16/94V/?idx=999140",
+                "modelImageUri": "//s3.shinservice.ru/catalog/nokian/nordman_sz2.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "94",
+                            "value": "94 (670 кг)",
+                            "sourced": 670,
+                            "hint": "Максимум до 670 кг."
+                        },
+                        "speedIndex": {
+                            "key": "V",
+                            "value": "V (240 км/ч)",
+                            "sourced": 240,
+                            "hint": "Максимум до 240 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": true,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 0,
+                "price": 3980,
+                "creditFrom": 398,
+                "labels": [
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-nokian-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Nokian лето 2021 ШМ"
+                    },
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/nokian/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Nokian магазины 2019"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            },
+            {
+                "id": "999112",
+                "title": "Nokian Hakka Green 3",
+                "modelUri": "/catalog/nokian/summer/hakka_green_3/205-55-R16/94H/?idx=999112",
+                "modelImageUri": "//s3.shinservice.ru/catalog/nokian/hakka_green_3.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "94",
+                            "value": "94 (670 кг)",
+                            "sourced": 670,
+                            "hint": "Максимум до 670 кг."
+                        },
+                        "speedIndex": {
+                            "key": "H",
+                            "value": "H (210 км/ч)",
+                            "sourced": 210,
+                            "hint": "Максимум до 210 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": true,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 0,
+                "price": 4150,
+                "creditFrom": 415,
+                "labels": [
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-nokian-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Nokian лето 2021 ШМ"
+                    },
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/nokian/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Nokian магазины 2019"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            },
+            {
+                "id": "838006",
+                "title": "Continental ContiPremiumContact 6",
+                "modelUri": "/catalog/continental/summer/conti_premium_contact_6/205-55-R16/91H/?idx=838006",
+                "modelImageUri": "//s3.shinservice.ru/catalog/continental/premiumcontact6.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "H",
+                            "value": "H (210 км/ч)",
+                            "sourced": 210,
+                            "hint": "Максимум до 210 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": true,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 4,
+                "price": 5450,
+                "creditFrom": 545,
+                "labels": [
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-continental-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Continental лето 2021 ШМ"
+                    },
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/continental/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Continental 2019"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 3
+                },
+                "inCart": 0
+            },
+            {
+                "id": "695049",
+                "title": "Continental ContiPremiumContact 5",
+                "modelUri": "/catalog/continental/summer/conti_premium_contact_5/205-55-R16/91W/ao/?idx=695049",
+                "modelImageUri": "//s3.shinservice.ru/catalog/continental/contipremiumcontact-5.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "W",
+                            "value": "W (270 км/ч)",
+                            "sourced": 270,
+                            "hint": "Максимум до 270 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": "AO - AUDI",
+                    "isNew": false,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 6,
+                "price": 7020,
+                "creditFrom": 702,
+                "labels": [
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-continental-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Continental лето 2021 ШМ"
+                    },
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/continental/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Continental 2019"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 2
+                },
+                "inCart": 0
+            },
+            {
+                "id": "680701",
+                "title": "Dunlop SP Touring T1",
+                "modelUri": "/catalog/dunlop/summer/sp_touring_t1/205-55-R16/91H/?idx=680701",
+                "modelImageUri": "//s3.shinservice.ru/catalog/dunlop/sp-touring-t1.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "H",
+                            "value": "H (210 км/ч)",
+                            "sourced": 210,
+                            "hint": "Максимум до 210 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": false,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 2,
+                "price": 4230,
+                "creditFrom": 423,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-dunlop-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Dunlop лето 2021 ШМ"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/dunlop/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Dunlop 2019"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            },
+            {
+                "id": "914824",
+                "title": "Pirelli Cinturato P7C2",
+                "modelUri": "/catalog/pirelli/summer/cinturato_p7_new/205-55-R16/91V/?idx=914824",
+                "modelImageUri": "//s3.shinservice.ru/catalog/pirelli/cinturato-p7new.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "V",
+                            "value": "V (240 км/ч)",
+                            "sourced": 240,
+                            "hint": "Максимум до 240 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": true,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 0,
+                "price": 4460,
+                "creditFrom": 446,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-pirelli-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Pirelli лето 2021 ШМ"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/pirelli/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Pirelli магазины 2019 магазины"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 3
+                },
+                "inCart": 0
+            },
+            {
+                "id": "914825",
+                "title": "Pirelli Cinturato P7C2",
+                "modelUri": "/catalog/pirelli/summer/cinturato_p7_new/205-55-R16/94V/?idx=914825",
+                "modelImageUri": "//s3.shinservice.ru/catalog/pirelli/cinturato-p7new.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "94",
+                            "value": "94 (670 кг)",
+                            "sourced": 670,
+                            "hint": "Максимум до 670 кг."
+                        },
+                        "speedIndex": {
+                            "key": "V",
+                            "value": "V (240 км/ч)",
+                            "sourced": 240,
+                            "hint": "Максимум до 240 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": true,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 0,
+                "price": 5200,
+                "creditFrom": 520,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-pirelli-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Pirelli лето 2021 ШМ"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/pirelli/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Pirelli магазины 2019 магазины"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 3
+                },
+                "inCart": 0
+            },
+            {
+                "id": "677967",
+                "title": "Pirelli Cinturato P7 Run Flat",
+                "modelUri": "/catalog/pirelli/summer/cinturato_p7_run_flat/205-55-R16/91V/?idx=677967",
+                "modelImageUri": "//s3.shinservice.ru/catalog/pirelli/cinturato-p7.jpg?v=14",
+                "params": {
+                    "runflat": true,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "V",
+                            "value": "V (240 км/ч)",
+                            "sourced": 240,
+                            "hint": "Максимум до 240 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": false,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 4,
+                "price": 6590,
+                "creditFrom": 659,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-pirelli-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Pirelli лето 2021 ШМ"
+                    },
+                    {
+                        "type": "extended_warranty",
+                        "url": "/info/guarantee/pirelli/",
+                        "imageUrl": "/m/i/label/guarantee-new.png",
+                        "description": "Расширенная гарантия Pirelli магазины 2019 магазины"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            },
+            {
+                "id": "838291",
+                "title": "Pirelli FORMULA ENERGY",
+                "modelUri": "/catalog/pirelli/summer/formula_energy/205-55-R16/91V/ks/?idx=838291",
+                "modelImageUri": "//s3.shinservice.ru/catalog/pirelli/formula_energy.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": null,
+                    "countryImageName": null,
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "V",
+                            "value": "V (240 км/ч)",
+                            "sourced": 240,
+                            "hint": "Максимум до 240 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": " - KS",
+                    "isNew": false,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 32,
+                "price": 3620,
+                "creditFrom": 362,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-formula-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "Акция Formula лето 2021 ШМ"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            },
+            {
+                "id": "671628",
+                "title": "Hankook Optimo Kinergy Eco K425",
+                "modelUri": "/catalog/hankook/summer/optimo_kinergy_eco_k425/205-55-R16/91H/?idx=671628",
+                "modelImageUri": "//s3.shinservice.ru/catalog/hankook/hankook-optimo-kinergy-eco-k425.jpg?v=14",
+                "params": {
+                    "runflat": false,
+                    "countryImageUrl": "//s3.shinservice.ru/i/f/korea.png?0",
+                    "countryImageName": "КОРЕЯ, РЕСПУБЛИКА",
+                    "season": "S",
+                    "pin": false,
+                    "productionYear": 0,
+                    "properties": {
+                        "width": "205",
+                        "profile": "55",
+                        "radius": "R16",
+                        "loadIndex": {
+                            "key": "91",
+                            "value": "91 (615 кг)",
+                            "sourced": 615,
+                            "hint": "Максимум до 615 кг."
+                        },
+                        "speedIndex": {
+                            "key": "H",
+                            "value": "H (210 км/ч)",
+                            "sourced": 210,
+                            "hint": "Максимум до 210 км/ч"
+                        },
+                        "isCommercial": false
+                    },
+                    "homologation": null,
+                    "isNew": false,
+                    "isPreorderGoods": false,
+                    "isPreorderGoodsAmount": 0,
+                    "isSale": false
+                },
+                "countReviews": 2,
+                "price": 4120,
+                "creditFrom": 412,
+                "labels": [
+                    {
+                        "type": "credit",
+                        "url": "/offers/credit-all/",
+                        "imageUrl": "/m/i/label/new/credit-tinkoff-1.svg",
+                        "description": "Кредит/рассрочка"
+                    },
+                    {
+                        "type": "common",
+                        "url": "/offers/besplatniy-shinomontazh-hankook-leto/",
+                        "imageUrl": "/m/i/label/ts-promo21.svg",
+                        "description": "ШМ Hankook лето 2021"
+                    },
+                    {
+                        "type": "country",
+                        "url": null,
+                        "imageUrl": "/i/f/korea.png?v=0",
+                        "description": "Корея"
+                    }
+                ],
+                "available": {
+                    "days": 0,
+                    "amount": 1
+                },
+                "inCart": 0
+            }
+        ],
+        "key": "d2a08af0c0ce95c46220b800f8bce16c"
+    }
+}
